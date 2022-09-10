@@ -1,0 +1,16 @@
+E:\TEST\FigureApplication\bin\Debug\net5.0\FigureApplication.exe
+E:\TEST\FigureApplication\bin\Debug\net5.0\FigureApplication.deps.json
+E:\TEST\FigureApplication\bin\Debug\net5.0\FigureApplication.runtimeconfig.json
+E:\TEST\FigureApplication\bin\Debug\net5.0\FigureApplication.runtimeconfig.dev.json
+E:\TEST\FigureApplication\bin\Debug\net5.0\FigureApplication.dll
+E:\TEST\FigureApplication\bin\Debug\net5.0\ref\FigureApplication.dll
+E:\TEST\FigureApplication\bin\Debug\net5.0\FigureApplication.pdb
+E:\TEST\FigureApplication\obj\Debug\net5.0\FigureApplication.csproj.AssemblyReference.cache
+E:\TEST\FigureApplication\obj\Debug\net5.0\FigureApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\TEST\FigureApplication\obj\Debug\net5.0\FigureApplication.AssemblyInfoInputs.cache
+E:\TEST\FigureApplication\obj\Debug\net5.0\FigureApplication.AssemblyInfo.cs
+E:\TEST\FigureApplication\obj\Debug\net5.0\FigureApplication.csproj.CoreCompileInputs.cache
+E:\TEST\FigureApplication\obj\Debug\net5.0\FigureApplication.dll
+E:\TEST\FigureApplication\obj\Debug\net5.0\ref\FigureApplication.dll
+E:\TEST\FigureApplication\obj\Debug\net5.0\FigureApplication.pdb
+E:\TEST\FigureApplication\obj\Debug\net5.0\FigureApplication.genruntimeconfig.cache
